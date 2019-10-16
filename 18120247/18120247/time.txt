@@ -1,0 +1,17 @@
+Quick Sort: 	1000	0.004
+Quick Sort: 	1000	0.002
+Quick Sort: 	5000	0.165
+Quick Sort: 	5000	0.06
+~~ 
+Random: 	1000	0.004
+Random: 	1000	0.002
+Random: 	5000	0.103
+Random: 	5000	0.028
+~~ 
+Random: 	10	0.003
+Random: 	10	0.001
+Random: 	50	0.009
+Random: 	50	0.01
+~~ 
+Random	10	0.001	Random	10	0.001	Random	50	0.009	Random	50	0.009	~~ 
+0	0	0	0	~~ 
